@@ -1,0 +1,112 @@
+[
+  {
+    "id": "OSI-REF-001",
+    "publisher": "The Metropolitan Museum of Art",
+    "title": "Superfine: Tailoring Black Style",
+    "url": "https://www.metmuseum.org/exhibitions/superfine-tailoring-black-style",
+    "topic": "Black dandyism",
+    "type": "museum exhibition",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-002",
+    "publisher": "Smithsonian NMAAHC",
+    "title": "Afrofuturism: A History of Black Futures",
+    "url": "https://nmaahc.si.edu/explore/exhibitions/afrofuturism",
+    "topic": "Afrofuturism",
+    "type": "museum exhibition",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-003",
+    "publisher": "Victoria and Albert Museum",
+    "title": "Africa Fashion",
+    "url": "https://www.vam.ac.uk/articles/about-the-africa-fashion-exhibition",
+    "topic": "African fashion",
+    "type": "museum editorial",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-004",
+    "publisher": "The Metropolitan Museum of Art",
+    "title": "Djellaba object 85596",
+    "url": "https://www.metmuseum.org/art/collection/search/85596",
+    "topic": "Moroccan djellaba",
+    "type": "museum object",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-005",
+    "publisher": "The Metropolitan Museum of Art",
+    "title": "Djellaba object 85606",
+    "url": "https://www.metmuseum.org/art/collection/search/85606",
+    "topic": "Moroccan djellaba",
+    "type": "museum object",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-006",
+    "publisher": "FHCM",
+    "title": "Imane Ayissi house",
+    "url": "https://www.fhcm.paris/en/house/imane-ayissi",
+    "topic": "haute couture",
+    "type": "industry institution",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-007",
+    "publisher": "Thebe Magugu",
+    "title": "About",
+    "url": "https://www.thebemagugu.com/about/",
+    "topic": "South African fashion",
+    "type": "brand statement",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-008",
+    "publisher": "MaXhosa Africa",
+    "title": "MAXHONAISSANCE SS24/25",
+    "url": "https://maxhosa.africa/blogs/news/maxhonaissance-ss-24-25",
+    "topic": "South African fashion",
+    "type": "brand statement",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-009",
+    "publisher": "Copenhagen Fashion Week",
+    "title": "Sustainability Requirements",
+    "url": "https://copenhagenfashionweek.com/sustainability/sustainability-requirements",
+    "topic": "Nordic fashion",
+    "type": "industry institution",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-010",
+    "publisher": "Copenhagen Fashion Week",
+    "title": "About",
+    "url": "https://copenhagenfashionweek.com/about-us",
+    "topic": "Nordic fashion",
+    "type": "industry institution",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  },
+  {
+    "id": "OSI-REF-011",
+    "publisher": "Smithsonian Magazine",
+    "title": "What is Afrofuturism?",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/what-is-afrofuturism-180982154/",
+    "topic": "Afrofuturism",
+    "type": "institutional journalism",
+    "verification_status": "reference candidate — verify source page and precise claims before publishing",
+    "licence": "link only; no reproduction rights implied"
+  }
+]
