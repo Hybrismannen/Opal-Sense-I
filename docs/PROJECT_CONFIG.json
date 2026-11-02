@@ -1,0 +1,65 @@
+{
+  "owner": "Hybrismannen",
+  "repo": "Opal-Sense-I",
+  "title": "The Opal — Editorial & Archive Operations",
+  "description": "Source-led editorial production, global fashion research and archive maintenance.",
+  "fields": [
+    {
+      "name": "Editorial Phase",
+      "type": "SINGLE_SELECT",
+      "options": [
+        "Backlog",
+        "Sourcing",
+        "Researching",
+        "Fact-check",
+        "Drafting",
+        "Editing",
+        "Published"
+      ]
+    },
+    {
+      "name": "Desk",
+      "type": "SINGLE_SELECT",
+      "options": [
+        "Culture & Identity",
+        "Garments & Traditions",
+        "Designers & Houses",
+        "Objects & Engineering",
+        "Global Observer",
+        "Reading Room",
+        "Platform"
+      ]
+    },
+    {
+      "name": "Priority",
+      "type": "SINGLE_SELECT",
+      "options": [
+        "P0",
+        "P1",
+        "P2",
+        "P3"
+      ]
+    },
+    {
+      "name": "Evidence",
+      "type": "SINGLE_SELECT",
+      "options": [
+        "Unverified",
+        "Partially sourced",
+        "Source verified",
+        "Reviewed"
+      ]
+    },
+    {
+      "name": "Next Review",
+      "type": "DATE"
+    }
+  ],
+  "views": [
+    "Editorial Kanban",
+    "Research Desk",
+    "Evidence Review",
+    "Publication Roadmap"
+  ],
+  "pending": "Create Project v2 with user-scoped project authorization and link repository Issues."
+}
