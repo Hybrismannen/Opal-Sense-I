@@ -1,0 +1,25 @@
+name: "Fashion object record"
+description: "A single shoe, garment, accessory or model variant."
+title: "[OBJECT] "
+labels: ["type:object"]
+body:
+  - type: input
+    id: identity
+    attributes:
+      label: Maker, model and variant
+    validations:
+      required: true
+  - type: textarea
+    id: construction
+    attributes:
+      label: Materials, construction and design technology
+      description: Mark each attribute as verified, claimed or unknown.
+  - type: textarea
+    id: provenance
+    attributes:
+      label: Identification evidence and bibliography
+  - type: textarea
+    id: price
+    attributes:
+      label: Documented price observations
+      description: Specify date, currency, original MSRP or asking/sold status, fees and condition.
