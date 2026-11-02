@@ -1,0 +1,20 @@
+name: "Source verification"
+description: "Check provenance, conflicting claims, rights and editorial accuracy."
+title: "[SOURCE AUDIT] "
+labels: ["type:source"]
+body:
+  - type: textarea
+    id: claims
+    attributes:
+      label: Claims under review
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Sources and retrieval dates
+  - type: textarea
+    id: result
+    attributes:
+      label: Resolution and outstanding uncertainty
+      description: Record what is supported, contradicted or still unknown.
