@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Editorial operating manual
+    url: https://github.com/Hybrismannen/Opal-Sense-I/blob/main/docs/EDITORIAL_OPERATIONS.md
+    about: Consult editorial standards and workflow before submitting a dossier.
