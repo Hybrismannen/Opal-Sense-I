@@ -1,0 +1,27 @@
+name: "Brand and lineage dossier"
+description: "Research a house, label, creative director or product line."
+title: "[BRAND] "
+labels: ["type:brand"]
+body:
+  - type: input
+    id: house
+    attributes:
+      label: Name and geographic context
+    validations:
+      required: true
+  - type: textarea
+    id: history
+    attributes:
+      label: Research scope
+      value: |
+        - [ ] Founders and founding date
+        - [ ] Company ownership and creative direction
+        - [ ] Collections, lines, special models and collaborations
+        - [ ] Materials, construction and production claims
+        - [ ] Cultural and commercial context
+        - [ ] Heritage, legacy and controversies where relevant
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Bibliography and confidence
+      description: Identify source provenance and missing claims.
