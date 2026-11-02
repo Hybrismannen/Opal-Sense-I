@@ -1,0 +1,27 @@
+name: "Editorial feature"
+description: "Commission a sourced feature, designer profile or special issue."
+title: "[FEATURE] "
+labels: ["type:editorial"]
+body:
+  - type: textarea
+    id: premise
+    attributes:
+      label: Editorial question and scope
+      description: Distinguish geography, time, people, objects and central editorial proposition.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Starting sources
+      description: Primary objects, named institutions, publications and source dates.
+  - type: textarea
+    id: criteria
+    attributes:
+      label: Acceptance criteria
+      value: |
+        - [ ] Primary and independent sources identified
+        - [ ] Claims and interpretations distinguished
+        - [ ] Dates and attribution checked
+        - [ ] Images and other rights resolved
+        - [ ] Final references and archival links added
