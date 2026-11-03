@@ -14,6 +14,7 @@
 
 ### Editorial operations
 - [16 live research and production Issues](https://github.com/Hybrismannen/Opal-Sense-I/issues)
+- [Editorial & Archive Operations — private GitHub Project](https://github.com/users/Hybrismannen/projects/2) — same original 16 Issues, source-linked editorial views; **not** publication/Director acceptance
 - [Operations and workflow](./docs/EDITORIAL_OPERATIONS.md)
 - [Editorial standards](./docs/EDITORIAL_STANDARDS.md)
 - [Issue Map](./docs/ISSUE_MAP.md)
@@ -27,7 +28,8 @@
 
 ### Current status · 2026-11-02
 - **Live:** GitHub Issues #1–#16, labels, four Issue templates, JSON datasets, responsive magazine source, standards and GitHub deployment scripts.
-- **Prepared, not yet activated:** the user-level GitHub Project v2; the separate Wiki git repository; GitHub Pages site hosting.
+- **Project established (2026-11-03):** private user-level [Editorial & Archive Operations Project](https://github.com/users/Hybrismannen/projects/2), linked to original Issues #1–#16; Project fields do not certify editorial or publication acceptance.
+- **Still not activated/verified:** the separate native Wiki git repository and GitHub Pages site hosting. These require their own publication/rights and technical checks.
 - **Corpus:** 35 conversation-derived shoe records, 32 brand/label directory entries and 11 source-link candidates. Do not treat unresolved models, provenance or source claims as verified.
 
 ### Privacy and rights
